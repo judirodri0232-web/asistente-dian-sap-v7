@@ -1,0 +1,9 @@
+
+# Archivos y carpetas que no se deben subir
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.DS_Store
